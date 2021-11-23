@@ -23,7 +23,7 @@
 - 🖥 Computer Structure
   - How to make Computer ?
 - 📈 Algorithm
-  - 1 day 1 algorithm
+  - 1 day 1 algorithm (From 23th, November, 2021 ~ )
 - Crawling
   - Scrapy
   - Selenium
