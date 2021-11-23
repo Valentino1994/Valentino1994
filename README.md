@@ -2,7 +2,7 @@
 
 
 
-### Not Only Coding, But Solving Problems.
+### Not Only Coding, But Also Solving Problems.
 ### 1 day 1 commit challenge (From 23th, November, 2021 ~ )
 
 
