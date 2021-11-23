@@ -21,7 +21,7 @@
 
 
 - 🖥 Computer Structure
-  - How to make Computer ?
+  - How to make a Computer ?
 - 📈 Algorithm
   - 1 day 1 algorithm (From 23th, November, 2021 ~ )
 - Crawling
