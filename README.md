@@ -22,6 +22,8 @@
 
 - 🖥 Computer Structure
   - How to make a Computer ?
+  - React
+  - Crawling
 - 📈 Algorithm
   - 1 day 1 algorithm (From 23th, November, 2021 ~ )
 - Crawling
