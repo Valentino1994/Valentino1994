@@ -3,7 +3,7 @@
 
 
 ### Not Only Coding, But Also Solving Problems.
-### 1 day 1 commit challenge (From 21th, November, 2021 ~ )
+### 1 day 1 commit challenge (From 1st, January, 2022 ~ )
 
 
 ## 🛠 TECH 🛠 
