@@ -19,7 +19,7 @@
 ## 🌱 Now Learning 🌱
 
 
-
+  
 - 🖥 Computer Structure
   - How to make a Computer ?
 - 📈 Algorithm
