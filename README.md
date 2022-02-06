@@ -21,7 +21,7 @@
 
   
 - 🖥 Computer Structure
-  - How to make a Computer ?
+  - How to make a Computer ? 
 - 📈 Algorithm
 - Crawling
   - Scrapy
