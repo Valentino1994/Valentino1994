@@ -23,9 +23,5 @@
 - 🖥 Computer Structure
   - How to make a Computer ? 
 - 📈 Algorithm
-- Crawling
-  - Scrapy
-  - Selenium
-- NoSQL
-  - MongoDB
+- Java
 
