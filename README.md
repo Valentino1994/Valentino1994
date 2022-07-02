@@ -9,11 +9,10 @@
 
  
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"/><img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swiff-3766AB?style=flat-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=React&logoColor=black"/><img src="https://img.shields.io/badge/VueJS-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valentino1994)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/badge/SwiftUI-61DAFB?style=flat-square&logo=SwiftUI&logoColor=black"/><img src="https://img.shields.io/badge/UIKit-4FC08D?style=flat-square&logo=UIKit&logoColor=white"/><img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=Spring&logoColor=white"/>
 
 ## 🌱 Now Learning 🌱
 
@@ -27,3 +26,6 @@
 - Swift
 - SwiftUI
 - UIKit 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valentino1994)](https://github.com/anuraghazra/github-readme-stats)
