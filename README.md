@@ -9,9 +9,9 @@
 
  
 
-<img src="https://img.shields.io/badge/Swiff-3766AB?style=flat-square&logo=Swift&logoColor=white"/><img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=black"/>
+<img src="https://img.shields.io/badge/Swiff-3766AB?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=blue"/>
 
-<img src="https://img.shields.io/badge/SwiftUI-61DAFB?style=flat-square&logo=SwiftUI&logoColor=black"/><img src="https://img.shields.io/badge/UIKit-4FC08D?style=flat-square&logo=UIKit&logoColor=white"/><img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/SwiftUI-61DAFB?style=flat-square&logo=SwiftUI&logoColor=black"/> <img src="https://img.shields.io/badge/UIKit-4FC08D?style=flat-square&logo=UIKit&logoColor=white"/> <img src="https://img.shields.io/badge/Django-#092E20?style=flat-square&logo=Django&logoColor=white"/>
 
 ## 🌱 Now Learning 🌱
 
