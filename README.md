@@ -26,8 +26,10 @@
 - 🖥 Computer Structure
   - How to make a Computer ? 
 - 📈 Algorithm
+
 - Python
 - Django
+
 - Swift
 - SwiftUI
 - UIKit 
