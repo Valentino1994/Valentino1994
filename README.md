@@ -10,7 +10,7 @@
  
 <div>
  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
- <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=JAVA&logoColor=white"/>
 </div>
 
 <div>
