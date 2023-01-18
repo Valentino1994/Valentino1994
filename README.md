@@ -10,13 +10,13 @@
  
 <div>
  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Java&logoColor=white"/>
 </div>
 
 <div>
  <img src="https://img.shields.io/badge/SwiftUI-61DAFB?style=flat-square&logo=Swift&logoColor=white"/>
  <img src="https://img.shields.io/badge/UIKit-4FC08D?style=flat-square&logo=UIKit&logoColor=white"/>
- <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=Django&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=Spring&logoColor=white"/>
 </div>
 
 ## 🌱 Now Learning 🌱
@@ -27,8 +27,8 @@
   - How to make a Computer ? 
 - 📈 Algorithm
 
-- Python
-- Django
+- Java
+- Spring
 
 - Swift
 - SwiftUI
